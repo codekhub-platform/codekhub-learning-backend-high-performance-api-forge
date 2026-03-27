@@ -1,0 +1,22 @@
+===================================================
+>_ WELCOME TO THE CODEKHUB LEARNING FORGE
+===================================================
+
+Uplink established. Welcome to the grid.
+
+[ WHAT IS THIS PLACE? ]
+This is a real-time, collaborative sandbox. It's a space dedicated to experimenting, breaking things, and building them back stronger. We focus on modern architecture, high-performance code, and learning together.
+
+[ HOW IT WORKS ]
+1. Collaborate: The code you write here is synced in real-time with other developers currently online in this Hub.
+2. Communicate: Use the built-in Team Chat to discuss solutions or ask for help.
+3. Deploy: Once a script or feature is ready, any connected user can commit and push the changes directly to our shared GitHub repository.
+
+[ PROTOCOLS ]
+- Respect the workspace: Do not delete someone else's code without discussing it in the chat first.
+- Share the knowledge: If you solve a complex bug, leave comments explaining how you did it.
+- Keep it secure: NEVER hardcode or commit API keys, passwords, or sensitive credentials here. 
+
+Explore the files, spin up some code, and let's build something awesome.
+
+-- The CodekHub Team
